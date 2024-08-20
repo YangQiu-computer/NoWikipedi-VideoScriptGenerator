@@ -1,2 +1,2 @@
 # NoWikipedi-VideoScriptGenerator
-视频脚本编辑器（有维基百科）
+视频脚本编辑器（无维基百科）
